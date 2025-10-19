@@ -168,3 +168,25 @@
 [48-凸优化基础-（优化问题，凸优化问题，凸二次规划问题）](https://www.bilibili.com/video/BV184HezEEY7/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [49-凸优化基础-（拉格朗日函数，拉格朗日对偶函数，对偶问题）](https://www.bilibili.com/video/BV1BjHBzrEdu/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[50-凸优化基础-（弱对偶性，强对偶性，斯莱特条件，对偶间隔）](https://www.bilibili.com/video/BV19vpNzVEmg/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[51-凸优化基础-（KKT条件）](https://www.bilibili.com/video/BV1YhnFz9ELS/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[52-凸优化基础-（问题举例，本章概念总结）](https://www.bilibili.com/video/BV1WwnTzoEgg/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[53-支持向量机-（线性可分，超平面，感知机）](https://www.bilibili.com/video/BV1J1nxzgE5W/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[54-支持向量机-（感知机学习，分隔超平面，几何间隔）](https://www.bilibili.com/video/BV1CdnszCE7T/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[55-支持向量机-（硬间隔SVM及其凸二次规划问题形式）](https://www.bilibili.com/video/BV1dYn4zTE4M/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[56-支持向量机-（硬间隔SVM的对偶求解）](https://www.bilibili.com/video/BV12BnXzfEmK/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[57-支持向量机-（软间隔SVM的问题建模）](https://www.bilibili.com/video/BV1ohnBzMEth/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[58-支持向量机-（软间隔SVM求解，非线性SVM问题引入）](https://www.bilibili.com/video/BV1hE4QzjE7w/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[59-支持向量机-（核函数，核化SVM，多类分类SVM）](https://www.bilibili.com/video/BV1SKWiztE2w/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[60-支持向量机-（SVM+HOG目标检测，YOLO概况）](https://www.bilibili.com/video/BV1DusczaEPe/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
