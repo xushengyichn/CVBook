@@ -1,4 +1,4 @@
-给数据集的内容本质上与训练Yolov4模型的数据集相同。只不过为了适合ultralytics程序框架的需要，对目录结构进行了重新组织。
+该数据集的内容本质上与训练Yolov4模型的数据集相同。只不过为了适合ultralytics程序框架的需要，对目录结构进行了重新组织。
 下载后，该文件夹要放在\ultralytics-main\目录之下，即文件目录结构为：
 --ultralytics-main
 ----mydata（文件夹）
