@@ -190,3 +190,9 @@
 [59-支持向量机-（核函数，核化SVM，多类分类SVM）](https://www.bilibili.com/video/BV1SKWiztE2w/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
 
 [60-支持向量机-（SVM+HOG目标检测，YOLO概况）](https://www.bilibili.com/video/BV1DusczaEPe/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[61-YOLO-（目标检测标注真值理解，YOLOv1详解）](https://www.bilibili.com/video/BV11wWDz4E3M/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[62-YOLO-（YOLOv3详解）](https://www.bilibili.com/video/BV12ZWSzFEzE/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
+
+[63-YOLO-（YOLOv8，Darknet+YOLOV4实践，Ultralytics+YOLOV11实践）](https://www.bilibili.com/video/BV1UxsEzyEXi/?vd_source=5cecc28f8471406b6fec5f23dc6619fd)
