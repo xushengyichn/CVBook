@@ -3,7 +3,7 @@ clear
 close all
 
 % 读取并显示封面图像
-imgPath = fullfile('D:','Users','xushe','Documents','GitHub','CVBook','imgs','book_cover.jpg');
+imgPath = fullfile('..','imgs','book_cover.jpg');
 
 if ~exist(imgPath, 'file')
 	fprintf('未找到文件: %s\n', imgPath);
